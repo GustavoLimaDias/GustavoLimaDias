@@ -14,17 +14,17 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia de Software com experiência prática em desenvolvimento de software e atuação em ambiente industrial.
+Sou estudante de Engenharia de Software na PUC Minas e atualmente atuo como estagiário na Vallourec, trabalhando em soluções de tecnologia voltadas para ambiente industrial.
 
-Durante minha experiência na Vallourec, trabalhei com:
+Tenho experiência prática com:
 - Sistemas de rastreamento industrial  
-- Integração com endpoints  
-- Configuração de drivers  
-- Suporte a sistemas de marcação de tubos (linha internacional)
+- Integração e consumo de endpoints  
+- Configuração de drivers e suporte a sistemas  
+- Soluções para linha de marcação de tubos (integração com sistemas internacionais)
 
-Tenho conhecimento em desenvolvimento backend, banco de dados, APIs e boas práticas de engenharia de software.
+Além disso, possuo conhecimentos em desenvolvimento backend, APIs, banco de dados e boas práticas de engenharia de software.
 
-Me destaco pela facilidade de aprendizado, trabalho em equipe e foco na resolução de problemas reais.
+Me destaco pela rapidez no aprendizado, capacidade de adaptação e foco na resolução de problemas.
 
 ---
 
@@ -61,7 +61,7 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 - 💻 Linguagens: C, C++, C#, Java, Python, JavaScript  
 - 🌐 Web: HTML, CSS  
 - ⚙️ Backend: APIs, FastAPI, integração de sistemas  
-- 🗄️ Banco de dados: MySQL, SQL Server, PostgreSQL  
+- 🗄️ Banco de dados: MySQL, PostgreSQL  
 - 🔄 Ferramentas: Git, GitHub, GitLab, Postman  
 - ☁️ Cloud: AWS (básico)  
 - 🧠 Conceitos:  
