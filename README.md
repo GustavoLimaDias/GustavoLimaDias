@@ -1,4 +1,89 @@
-## Hi there 👋
+## <h1 align="center">👋 Olá, eu sou o Gustavo Lima Dias!</h1>
+
+<p align="center">
+💻 Estudante de Engenharia de Software | Desenvolvedor Backend em evolução
+</p>
+
+---
+
+🎓 Engenharia de Software — PUC Minas  
+💼 Experiência prática em desenvolvimento e sistemas industriais  
+📍 Brasil  
+
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de Engenharia de Software com experiência prática em desenvolvimento de software e atuação em ambiente industrial.
+
+Durante minha experiência na Vallourec, trabalhei com:
+- Sistemas de rastreamento industrial  
+- Integração com endpoints  
+- Configuração de drivers  
+- Suporte a sistemas de marcação de tubos (linha internacional)
+
+Tenho conhecimento em desenvolvimento backend, banco de dados, APIs e boas práticas de engenharia de software.
+
+Me destaco pela facilidade de aprendizado, trabalho em equipe e foco na resolução de problemas reais.
+
+---
+
+## 🎓 Formação
+
+- 🎓 Engenharia de Software — PUC Minas (em andamento)
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus conhecimentos em desenvolvimento, contribuir com projetos de impacto e evoluir profissionalmente como desenvolvedor.
+
+---
+
+## 📫 Contato
+
+- 📧 guidias0503@gmail.com  
+- 💼 https://www.linkedin.com  
+- 🐙 https://github.com/SEU_USERNAME
+
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,cs,dotnet,fastapi,mysql,postgres,git,github,gitlab,aws,bash,powershell,postman,vscode
+</p>
+
+---
+
+## 🔧 Conhecimentos Técnicos
+
+- 💻 Linguagens: C, C++, C#, Java, Python, JavaScript  
+- 🌐 Web: HTML, CSS  
+- ⚙️ Backend: APIs, FastAPI, integração de sistemas  
+- 🗄️ Banco de dados: MySQL, SQL Server, PostgreSQL  
+- 🔄 Ferramentas: Git, GitHub, GitLab, Postman  
+- ☁️ Cloud: AWS (básico)  
+- 🧠 Conceitos:  
+  - Arquitetura de computadores  
+  - Modelagem de processos (BPM/BPMN)  
+  - Metodologias ágeis  
+  - Estruturação de sistemas  
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight
+  https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight
+</div>
+
+---
+
+## 💡 Frase
+
+💡 "Evoluindo continuamente como desenvolvedor e transformando conhecimento em soluções reais."
 
 <!--
 **GustavoLimaDias/GustavoLimaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
