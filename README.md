@@ -74,13 +74,18 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 🔥 Streak (dias codando)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true"/>
+</div>
 ---
 
 ## 💡 Frase
