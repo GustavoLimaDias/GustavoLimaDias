@@ -1,54 +1,54 @@
-## <h1 align="center">👋 Olá, eu sou o Gustavo Lima Dias!</h1>
+<h1 align="center">👋 Hi, I'm Gustavo Lima Dias</h1>
 
 <p align="center">
-💻 Estudante de Engenharia de Software | Desenvolvedor Backend em evolução
+💻 Software Engineering Student | Backend Developer
 </p>
 
 ---
 
-🎓 Engenharia de Software — PUC Minas  
-💼 Experiência prática em desenvolvimento e sistemas industriais  
-📍 Brasil  
+🎓 Software Engineering — PUC Minas  
+💼 Intern at Vallourec (Industrial Systems & Software)  
+📍 Brazil  
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou estudante de Engenharia de Software na PUC Minas e atualmente atuo como estagiário na Vallourec, trabalhando em soluções de tecnologia voltadas para ambiente industrial.
+I am a Software Engineering student at PUC Minas and currently working as an intern at Vallourec, focused on technology solutions in industrial environments.
 
-Tenho experiência prática com:
-- Sistemas de rastreamento industrial  
-- Integração e consumo de endpoints  
-- Configuração de drivers e suporte a sistemas  
-- Soluções para linha de marcação de tubos (integração com sistemas internacionais)
+I have hands-on experience with:
+- Industrial tracking systems  
+- API and endpoint integration  
+- Driver configuration and system support  
+- Industrial tube marking systems (international integration)
 
-Além disso, possuo conhecimentos em desenvolvimento backend, APIs, banco de dados e boas práticas de engenharia de software.
+Additionally, I have knowledge in backend development, APIs, databases, and software engineering best practices.
 
-Me destaco pela rapidez no aprendizado, capacidade de adaptação e foco na resolução de problemas.
-
----
-
-## 🎓 Formação
-
-- 🎓 Engenharia de Software — PUC Minas (em andamento)
+I am recognized for fast learning, adaptability, teamwork, and problem-solving.
 
 ---
 
-## 🎯 Objetivo
+## 🎓 Education
 
-Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus conhecimentos em desenvolvimento, contribuir com projetos de impacto e evoluir profissionalmente como desenvolvedor.
+- 🎓 Software Engineering — PUC Minas (ongoing)
 
 ---
 
-## 📫 Contato
+## 🎯 Goals
+
+Seeking to grow as a backend developer by contributing to real-world projects and continuously improving my technical and problem-solving skills.
+
+---
+
+## 📫 Contact
 
 - 📧 guidias0503@gmail.com  
-- 💼 [https://www.linkedin.com  ](https://www.linkedin.com/in/gustavo-lima-dias/)
-- 🐙 [https://github.com/SEU_USERNAME](https://github.com/GustavoLimaDias)
+- 💼 https://www.linkedin.com/in/gustavo-lima-dias  
+- 🐙 https://github.com/GustavoLimaDias  
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,cs,dotnet,fastapi,mysql,postgres,git,github,gitlab,aws,bash,powershell,postman,vscode" />
@@ -56,23 +56,23 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 
 ---
 
-## 🔧 Conhecimentos Técnicos
+## 🛠️ Technical Skills
 
-- 💻 Linguagens: C, C++, C#, Java, Python, JavaScript  
+- 💻 Languages: C, C++, C#, Java, Python, JavaScript  
 - 🌐 Web: HTML, CSS  
-- ⚙️ Backend: APIs, FastAPI, integração de sistemas  
-- 🗄️ Banco de dados: MySQL, PostgreSQL  
-- 🔄 Ferramentas: Git, GitHub, GitLab, Postman  
-- ☁️ Cloud: AWS (básico)  
-- 🧠 Conceitos:  
-  - Arquitetura de computadores  
-  - Modelagem de processos (BPM/BPMN)  
-  - Metodologias ágeis  
-  - Estruturação de sistemas  
+- ⚙️ Backend: APIs, FastAPI, system integration  
+- 🗄️ Databases: MySQL, PostgreSQL  
+- 🔄 Tools: Git, GitHub, GitLab, Postman  
+- ☁️ Cloud: AWS (basic)  
+- 🧠 Concepts:  
+  - Computer Architecture  
+  - Process Modeling (BPM/BPMN)  
+  - Agile Methodologies  
+  - System Design  
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
@@ -81,28 +81,14 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 
 ---
 
-## 🔥 Streak (dias codando)
+## 🔥 Coding Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true"/>
 </div>
+
 ---
 
-## 💡 Frase
+## 💡 Quote
 
-💡 "Evoluindo continuamente como desenvolvedor e transformando conhecimento em soluções reais."
-
-<!--
-**GustavoLimaDias/GustavoLimaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 "Continuously evolving as a developer and turning knowledge into real-world solutions."
