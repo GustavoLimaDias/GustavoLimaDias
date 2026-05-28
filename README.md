@@ -43,15 +43,15 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 ## 📫 Contato
 
 - 📧 guidias0503@gmail.com  
-- 💼 https://www.linkedin.com  
-- 🐙 https://github.com/SEU_USERNAME
+- 💼 [https://www.linkedin.com  ](https://www.linkedin.com/in/gustavo-lima-dias/)
+- 🐙 [https://github.com/SEU_USERNAME](https://github.com/GustavoLimaDias)
 
 ---
 
 ## 🚀 Linguagens e Tecnologias
 
 <p align="center">
-  https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,cs,dotnet,fastapi,mysql,postgres,git,github,gitlab,aws,bash,powershell,postman,vscode
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,cpp,cs,dotnet,fastapi,mysql,postgres,git,github,gitlab,aws,bash,powershell,postman,vscode" />
 </p>
 
 ---
@@ -75,8 +75,8 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 ## 📊 Estatísticas
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight
-  https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
