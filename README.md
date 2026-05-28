@@ -74,11 +74,15 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
