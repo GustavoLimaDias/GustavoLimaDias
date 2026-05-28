@@ -76,7 +76,7 @@ Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus 
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
