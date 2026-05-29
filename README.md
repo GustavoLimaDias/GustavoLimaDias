@@ -81,20 +81,34 @@ Seeking to grow as a backend developer by contributing to real-world projects an
   - System Design  
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
-   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight&langs_count=7"/>
+  
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight&langs_count=8"/>
+
 </div>
 
 ---
 
-## 🔥 Coding Streak
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoLimaDias&theme=tokyonight"/>
+  
 </div>
 
 ---
