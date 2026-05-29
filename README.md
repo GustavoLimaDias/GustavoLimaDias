@@ -81,22 +81,24 @@ Seeking to grow as a backend developer by contributing to real-world projects an
   - System Design  
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=20"/>
-
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
+   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight&langs_count=7"/>
 </div>
+
+---
+
+---
 
 ---
 
 ## 🔥 Coding Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
