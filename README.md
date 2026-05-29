@@ -40,11 +40,21 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 
 ---
 
-## 📫 Contact
+## 📬 Contato
 
-- 📧 guidias0503@gmail.com  
-- 💼 https://www.linkedin.com/in/gustavo-lima-dias  
-- 🐙 https://github.com/GustavoLimaDias  
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-lima-dias" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:guidias0503@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/GustavoLimaDias" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
