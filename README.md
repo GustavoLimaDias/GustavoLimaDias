@@ -81,12 +81,12 @@ Seeking to grow as a backend developer by contributing to real-world projects an
   - System Design  
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight&langs_count=10"/>
 </div>
 
 ---
