@@ -40,7 +40,7 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-lima-dias">
