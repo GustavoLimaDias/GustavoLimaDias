@@ -81,6 +81,7 @@ Seeking to grow as a backend developer by contributing to real-world projects an
   - System Design  
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,12 +104,12 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Profile Activity
 
 <div align="center">
-  
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoLimaDias&theme=tokyonight"/>
-  
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoLimaDias&theme=tokyonight"/>
+
 </div>
 
 ---
