@@ -84,9 +84,11 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight" />
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&langs_count=10&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaDias&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=20"/>
+
 </div>
 
 ---
