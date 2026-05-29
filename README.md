@@ -20,7 +20,7 @@ I have hands-on experience with:
 - Industrial tracking systems  
 - API and endpoint integration  
 - Driver configuration and system support  
-- Industrial tube marking systems (international integration)
+- Industrial pipe marking systems (international integration)
 
 Additionally, I have knowledge in backend development, APIs, databases, and software engineering best practices.
 
