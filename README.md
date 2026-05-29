@@ -91,10 +91,6 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 
 ---
 
----
-
----
-
 ## 🔥 Coding Streak
 
 <div align="center">
