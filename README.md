@@ -97,9 +97,7 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true&cache_seconds=60" />
 </div>
 
 ---
