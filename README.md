@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I am a Software Engineering student at PUC Minas and currently working as an intern at Vallourec, focused on technology solutions in industrial environments.
+I am a Software Engineering student at PUC Minas and and I've worked as an intern at Vallourec, focused on technology solutions in industrial environments.
 
 I have hands-on experience with:
 - Industrial tracking systems  
