@@ -7,7 +7,6 @@
 ---
 
 🎓 Software Engineering — PUC Minas  
-💼 Intern at Vallourec (Industrial Systems & Software)  
 📍 Brazil  
 
 ---
