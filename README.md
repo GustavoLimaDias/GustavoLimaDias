@@ -90,6 +90,15 @@ Seeking to grow as a backend developer by contributing to real-world projects an
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLimaDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLimaDias&layout=compact&theme=tokyonight&langs_count=8"/>
+</div>
+
+---
+
 ## 🔥 GitHub Streak
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=GustavoLimaDias&theme=tokyonight&hide_border=true&cache_seconds=60" />
