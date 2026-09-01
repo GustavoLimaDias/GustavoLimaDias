@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 298" width="490" height="298">
+<style>
+.mono { font-family: 'Courier New', ui-monospace, SFMono-Regular, monospace; }
+.label { fill: #7ee787; font-weight: bold; }
+.value { fill: #c9d1d9; }
+.muted { fill: #8b949e; }
+.prompt { fill: #58a6ff; font-weight: bold; }
+text { font-size: 14px; }
+</style>
+<rect x="0.5" y="0.5" width="489" height="297" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 10 a9 9 0 0 1 9-9 h470 a9 9 0 0 1 9 9 v20 h-488 z" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="245.0" y="25" text-anchor="middle" class="mono muted">neofetch</text>
+<text x="22" y="48" class="mono prompt">gustavo@github</text>
+<text x="22" y="64" class="mono muted">──────────────</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.4s" fill="freeze"/><text x="22" y="78" class="mono"><tspan class="label">os:        </tspan><tspan class="value">PUC Minas :: Software Engineering</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.4s" fill="freeze"/><text x="22" y="102" class="mono"><tspan class="label">role:      </tspan><tspan class="value">Backend Developer (student)</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.4s" fill="freeze"/><text x="22" y="126" class="mono"><tspan class="label">prev:      </tspan><tspan class="value">Intern @ Vallourec — industrial systems</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.4s" fill="freeze"/><text x="22" y="150" class="mono"><tspan class="label">stack:     </tspan><tspan class="value">Python · Java · C/C++/C# · JS · FastAPI</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.4s" fill="freeze"/><text x="22" y="174" class="mono"><tspan class="label">db:        </tspan><tspan class="value">MySQL · PostgreSQL</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.4s" fill="freeze"/><text x="22" y="198" class="mono"><tspan class="label">tools:     </tspan><tspan class="value">Git · GitHub · GitLab · Postman · AWS</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/><text x="22" y="222" class="mono"><tspan class="label">focus:     </tspan><tspan class="value">APIs, system integration, driver config</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/><text x="22" y="246" class="mono"><tspan class="label">highlight: </tspan><tspan class="value">Industrial pipe-marking, intl. integration</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.4s" fill="freeze"/><text x="22" y="270" class="mono"><tspan class="label">goal:      </tspan><tspan class="value">Grow as a backend dev on real-world systems</tspan></text></g>
+</svg>
