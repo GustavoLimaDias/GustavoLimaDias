@@ -48,11 +48,6 @@ I am recognized for fast learning, adaptability, teamwork, and problem-solving.
 
 ---
 
-## 🎯 Goals
-Seeking to grow as a backend developer by contributing to real-world projects and continuously improving my technical and problem-solving skills.
-
----
-
 ## 📬 Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-lima-dias">
